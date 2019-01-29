@@ -1,0 +1,13 @@
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\bin\Debug\arayüz2.exe.config
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\bin\Debug\arayüz2.exe
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\bin\Debug\arayüz2.pdb
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.csprojResolveAssemblyReference.cache
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.Form1.resources
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.Properties.Resources.resources
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.csproj.GenerateResource.cache
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.csproj.CoreCompileInputs.cache
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.exe
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.pdb
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.AdminForm.resources
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.KullanıcıForm.resources
+C:\Users\olcay\OneDrive\Masaüstü\arayüz2\arayüz2\obj\Debug\arayüz2.MisafirForm.resources
